@@ -1,2 +1,2 @@
 # EstudosJS
- Estudando JavaScript
+ Estudando JavaScript do inicio total
